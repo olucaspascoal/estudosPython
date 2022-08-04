@@ -7,7 +7,7 @@ Repositório baseado no curso 'Introdução à Ciência da Computação com Pyth
 
 ## Sumário
 
-- [ ] <a href="semana1"> **Semana 1** | Apresentação e Introdução do Curso </a>
+- [ ] <a href="semana1/semana1.md"> **Semana 1** | Apresentação e Introdução do Curso </a>
      - [ ] O que é Ciência da Computação ? 
      - [ ] Operadores Aritméticos 
      - [ ] Operadores Relacionais
