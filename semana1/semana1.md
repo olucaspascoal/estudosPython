@@ -132,3 +132,12 @@ A ciência da computação também tem muitos **aspectos de engenharia**, porque
     </details>
   
 </details>
+
+
+<details>
+  <summary> 
+    
+ ## Operadores Aritméticos  
+  </summary>
+  
+</details>
